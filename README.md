@@ -32,4 +32,4 @@ npm start
 ```
 
 ### React app will run on this url 
-[a link] http://localhost:3000
+http://localhost:3000
